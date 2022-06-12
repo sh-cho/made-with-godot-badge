@@ -1,6 +1,6 @@
 # Made with Unity Badges
 
-![License](https://img.shields.io/github/license/sh-cho/made-with-godot-badge)
+![License](https://img.shields.io/github/license/sh-cho/made-with-godot-badge?label=license)
 
 Copy this code in your Markdown readme file :)
 
