@@ -1,4 +1,4 @@
-# Made with Unity Badges
+# Made with Godot Badges
 
 ![License](https://img.shields.io/github/license/sh-cho/made-with-godot-badge?label=license)
 
