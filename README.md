@@ -52,3 +52,8 @@ Copy this code in your Markdown readme file :)
 [![Made with Godot](https://img.shields.io/badge/Made%20with-Godot-478CBF?style=social&logo=godot%20engine)](https://godotengine.org)
 ```
 
+
+## credit
+
+Inspired by [Made With Unity Badges](https://github.com/matthiaszarzecki/MadeWithUnityBadges)
+
