@@ -1,6 +1,6 @@
 # Made with Godot Badges
 
-[![License: CC BY 4.0](https://img.shields.io/badge/license-CC--BY---4.0-97ca00)](https://creativecommons.org/licenses/by/4.0/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC--BY--4.0-97ca00.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Copy this code in your Markdown readme file :)
 
